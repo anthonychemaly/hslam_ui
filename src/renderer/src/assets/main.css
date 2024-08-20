@@ -1,0 +1,14 @@
+/* @import './base.css'; */
+
+.form-grid-wrapper {
+  margin-block: 48px;
+}
+
+.form-grid-wrapper > * {
+  display: flex;
+  align-items: flex-start;
+}
+
+.form-checkbox {
+  align-self: flex-end
+}
