@@ -32,3 +32,6 @@ $ yarn build:mac
 # For Linux
 $ yarn build:linux
 ```
+
+### Docker
+Adjust Dockerfile of HSLAM code with the one included in the root of this repository.
